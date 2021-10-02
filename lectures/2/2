@@ -1,67 +1,11 @@
 [
     {
-        "id": 129,
-        "title": "Computer Typing",
-        "videoId": "2AV-Yk1Vdws",
-        "videoUrl": "https://sendvid.com/cw010qkb",
-        "duration": "8:34",
-        "sort": 129
-    },
-    {
-        "id": 130,
-        "title": "Window 7 remove password",
-        "videoId": "wBDK4kBGBqw",
-        "videoUrl": "https://sendvid.com/1c2xwi7w",
-        "duration": "3:28",
-        "sort": 130
-    },
-    {
-        "id": 132,
-        "title": "Delete Software",
-        "videoId": "QuCwtSFImQ8",
-        "videoUrl": "https://sendvid.com/3h89jcr1",
-        "duration": "2:11",
-        "sort": 132
-    },
-    {
-        "id": 133,
-        "title": "How to install computer software",
-        "videoId": "dqo_YdVumw4",
-        "videoUrl": "https://sendvid.com/vgboht7n",
-        "duration": "1:53",
-        "sort": 133
-    },
-    {
-        "id": 134,
-        "title": "Look system information in window 10",
-        "videoId": "2UjI-R2sWTg",
-        "videoUrl": "https://sendvid.com/92zxwm8a",
-        "duration": "1:21",
-        "sort": 134
-    },
-    {
-        "id": 137,
-        "title": "Download computer software",
-        "videoId": "-kDAcMdsNIs",
-        "videoUrl": "https://sendvid.com/pjpaj9ys",
-        "duration": "6:21",
-        "sort": 137
-    },
-    {
         "id": 138,
         "title": "Windows 10 close Auto Update",
         "videoId": "o4qnZcpR3Mk",
         "videoUrl": "https://sendvid.com/0k23lvnx",
         "duration": "2:16",
         "sort": 138
-    },
-    {
-        "id": 142,
-        "title": "Install font",
-        "videoId": "pJUhRD8qieo",
-        "videoUrl": "https://sendvid.com/0cdrnbun",
-        "duration": "2:43",
-        "sort": 142
     },
     {
         "id": 145,
@@ -86,14 +30,6 @@
         "videoUrl": "https://sendvid.com/4sq1j93j",
         "duration": "3:03",
         "sort": 147
-    },
-    {
-        "id": 149,
-        "title": "Install Pyidaungsu font",
-        "videoId": "xd6tQ-bVaD4",
-        "videoUrl": "https://sendvid.com/87vfn83k",
-        "duration": "4:46",
-        "sort": 149
     },
     {
         "id": 151,
@@ -150,14 +86,6 @@
         "videoUrl": "https://sendvid.com/zjgrr1zy",
         "duration": "2:54",
         "sort": 162
-    },
-    {
-        "id": 164,
-        "title": "Computer buying guide",
-        "videoId": "9R8jI251e4o",
-        "videoUrl": "https://sendvid.com/8cbkfnrr",
-        "duration": "7:20",
-        "sort": 164
     },
     {
         "id": 165,
@@ -264,14 +192,6 @@
         "sort": 188
     },
     {
-        "id": 192,
-        "title": "Data Recovery From HDD, SD, Memory Stick",
-        "videoId": "jQXms5Jw09A",
-        "videoUrl": "https://sendvid.com/66v76eki",
-        "duration": "13:15",
-        "sort": 192
-    },
-    {
         "id": 195,
         "title": "Install Driver",
         "videoId": "rvBG2Khu4Do",
@@ -342,5 +262,53 @@
         "videoUrl": "https://sendvid.com/5frglj54",
         "duration": "15:09",
         "sort": 425
+    },
+    {
+        "id": 129,
+        "title": "Computer Typing",
+        "videoId": "2AV-Yk1Vdws",
+        "videoUrl": "https://sendvid.com/cw010qkb",
+        "duration": "8:34",
+        "sort": 129
+    },
+    {
+        "id": 130,
+        "title": "Window 7 remove password",
+        "videoId": "wBDK4kBGBqw",
+        "videoUrl": "https://sendvid.com/1c2xwi7w",
+        "duration": "3:28",
+        "sort": 130
+    },
+    {
+        "id": 132,
+        "title": "Delete Software",
+        "videoId": "QuCwtSFImQ8",
+        "videoUrl": "https://sendvid.com/3h89jcr1",
+        "duration": "2:11",
+        "sort": 132
+    },
+    {
+        "id": 133,
+        "title": "How to install computer software",
+        "videoId": "dqo_YdVumw4",
+        "videoUrl": "https://sendvid.com/vgboht7n",
+        "duration": "1:53",
+        "sort": 133
+    },
+    {
+        "id": 137,
+        "title": "Download computer software",
+        "videoId": "-kDAcMdsNIs",
+        "videoUrl": "https://sendvid.com/pjpaj9ys",
+        "duration": "6:21",
+        "sort": 137
+    },
+    {
+        "id": 164,
+        "title": "Computer buying guide",
+        "videoId": "9R8jI251e4o",
+        "videoUrl": "https://sendvid.com/8cbkfnrr",
+        "duration": "7:20",
+        "sort": 164
     }
 ]
