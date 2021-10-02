@@ -1,21 +1,5 @@
 [
     {
-        "id": 126,
-        "title": "About WinRar",
-        "videoId": "VEFJ_h88aQU",
-        "videoUrl": "https://sendvid.com/33sikec5",
-        "duration": "6:27",
-        "sort": 126
-    },
-    {
-        "id": 128,
-        "title": "Gmail 2 Steps",
-        "videoId": "n5gOS-fFYlg",
-        "videoUrl": "https://sendvid.com/53svgj9a",
-        "duration": "5:18",
-        "sort": 128
-    },
-    {
         "id": 129,
         "title": "Computer Typing",
         "videoId": "2AV-Yk1Vdws",
@@ -30,14 +14,6 @@
         "videoUrl": "https://sendvid.com/1c2xwi7w",
         "duration": "3:28",
         "sort": 130
-    },
-    {
-        "id": 131,
-        "title": "Close Window security",
-        "videoId": "DkIYDqDo-mo",
-        "videoUrl": "https://sendvid.com/982hs2je",
-        "duration": "3:14",
-        "sort": 131
     },
     {
         "id": 132,
@@ -78,14 +54,6 @@
         "videoUrl": "https://sendvid.com/0k23lvnx",
         "duration": "2:16",
         "sort": 138
-    },
-    {
-        "id": 139,
-        "title": "Window 10 keyboard",
-        "videoId": "sFYAMyObKww",
-        "videoUrl": "https://sendvid.com/yv6rpj6l",
-        "duration": "2:29",
-        "sort": 139
     },
     {
         "id": 140,
@@ -142,14 +110,6 @@
         "videoUrl": "https://sendvid.com/mf8dlclf",
         "duration": "7:28",
         "sort": 151
-    },
-    {
-        "id": 152,
-        "title": "Windows 7 Keyboard",
-        "videoId": "4FY7BB9_7lY",
-        "videoUrl": "https://sendvid.com/7zyxoqjh",
-        "duration": "2:11",
-        "sort": 152
     },
     {
         "id": 154,
@@ -312,22 +272,6 @@
         "sort": 180
     },
     {
-        "id": 181,
-        "title": "Data Recovery",
-        "videoId": "BqeIsuSIgY0",
-        "videoUrl": "https://sendvid.com/zntd4hyq",
-        "duration": "8:01",
-        "sort": 181
-    },
-    {
-        "id": 182,
-        "title": "License Photo",
-        "videoId": "SyYtp7fqjqs",
-        "videoUrl": "https://sendvid.com/fyk3sviq",
-        "duration": "9:59",
-        "sort": 182
-    },
-    {
         "id": 183,
         "title": "How to change format",
         "videoId": "JMC6Tu3TS4Y",
@@ -342,14 +286,6 @@
         "videoUrl": "https://sendvid.com/byij6wkl",
         "duration": "5:17",
         "sort": 184
-    },
-    {
-        "id": 185,
-        "title": "Install facebook software in computer",
-        "videoId": "xxHqQqzUpI4",
-        "videoUrl": "https://sendvid.com/t0px3e1e",
-        "duration": "8:54",
-        "sort": 185
     },
     {
         "id": 186,
@@ -416,14 +352,6 @@
         "sort": 204
     },
     {
-        "id": 353,
-        "title": "Copy data to CD/DVD",
-        "videoId": "05sdolXp-9k",
-        "videoUrl": "https://sendvid.com/rkp7x46g",
-        "duration": "3:31",
-        "sort": 353
-    },
-    {
         "id": 354,
         "title": "MP4 to MP3",
         "videoId": "af5qfCHN9-M",
@@ -438,14 +366,6 @@
         "videoUrl": "https://sendvid.com/hkf8si03",
         "duration": "4:41",
         "sort": 355
-    },
-    {
-        "id": 385,
-        "title": "Send Gmail",
-        "videoId": "x6daMdZDFmA",
-        "videoUrl": "https://sendvid.com/yylcmgf2",
-        "duration": "9:35",
-        "sort": 385
     },
     {
         "id": 388,
@@ -486,14 +406,6 @@
         "videoUrl": "https://sendvid.com/1k3bdmq4",
         "duration": "4:23",
         "sort": 421
-    },
-    {
-        "id": 422,
-        "title": "Video file size compress",
-        "videoId": "yttsRTfMKNk",
-        "videoUrl": "https://sendvid.com/hhlquh14",
-        "duration": "8:14",
-        "sort": 422
     },
     {
         "id": 425,
