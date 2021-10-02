@@ -2,5 +2,9 @@
     {
         "id": 1,
         "title": "Computer Knowledge"
+    },
+    {
+        "id": 2,
+        "title": "Frequently Asked"
     }
 ]
