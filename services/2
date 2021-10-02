@@ -1,0 +1,42 @@
+[
+    {
+        "icon": "",
+        "name": "Technoland (1)",
+        "address": "No.162 – 170, 36th Street (middle block), Kyauktada Township, Yangon",
+        "phone1": "09254839225",
+        "phone2": "09-254839226",
+        "url": ""
+    },
+    {
+        "icon": "",
+        "name": "Technoland (2)",
+        "address": "No. 55 F,Yangon-Insein Road, Hlaing Township, Yangon",
+        "phone1": "09254839204",
+        "phone2": "09254839205",
+        "url": ""
+    },
+    {
+        "icon": "",
+        "name": "Technoland (3)",
+        "address": "Unit G-01, Ground Floor, Hledan Center, Corner of Pyay Road & Hledan Road, Kamaryut Township, Yangon",
+        "phone1": "09976748884",
+        "phone2": "09976748886",
+        "url": ""
+    },
+    {
+        "icon": "",
+        "name": "Technoland (4)",
+        "address": "No.124, Pyi Htaung Su Yeiktha Street, Dagon Township, Yangon",
+        "phone1": "09962040201",
+        "phone2": "09962040203",
+        "url": ""
+    },
+    {
+        "icon": "",
+        "name": "Win Mobile World",
+        "address": "No. 46/48(A) Shan Kone Street,Myaynikone, Yangon",
+        "phone1": "09428191602",
+        "phone2": "09428191602",
+        "url": "https://www.google.com/"
+    }
+]
