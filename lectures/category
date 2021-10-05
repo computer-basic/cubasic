@@ -88,5 +88,11 @@
         "title": "PHP",
         "server": "youtub",
         "thumbnail": "https://i.imgur.com/Gx2Ishb.png"
+    },
+    {
+        "id": 16,
+        "title": "Python",
+        "server": "youtub",
+        "thumbnail": "https://i.imgur.com/XLw84xZ.png"
     }
 ]
