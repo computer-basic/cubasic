@@ -5,6 +5,8 @@
         "videoId": "",
         "videoUrl": "https://sendvid.com/wkhdak2l",
         "duration": "12:30",
+        "downloadUrl": "",
+        "size": "",
         "sort": 96
     },
     {
@@ -13,6 +15,8 @@
         "videoId": "",
         "videoUrl": "https://sendvid.com/4by63zpt",
         "duration": "11:28",
+        "downloadUrl": "",
+        "size": "",
         "sort": 96
     },
     {
@@ -21,6 +25,8 @@
         "videoId": "",
         "videoUrl": "https://sendvid.com/fldjt3mt",
         "duration": "10:14",
+        "downloadUrl": "",
+        "size": "",
         "sort": 96
     },
     {
@@ -29,6 +35,8 @@
         "videoId": "",
         "videoUrl": "https://sendvid.com/v9jnq6v3",
         "duration": "13:00",
+        "downloadUrl": "",
+        "size": "",
         "sort": 96
     }
 ]
