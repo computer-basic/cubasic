@@ -5,6 +5,8 @@
         "videoId": "28xjGhzqmXE",
         "videoUrl": "https://sendvid.com/8wy19k01",
         "duration": "1:13:38",
+        "downloadUrl": "",
+        "size": "",
         "sort": 349
     },
     {
@@ -13,6 +15,8 @@
         "videoId": "3LLoyOLsKFQ",
         "videoUrl": "https://sendvid.com/9yjposf1",
         "duration": "1:00:47",
+        "downloadUrl": "",
+        "size": "",
         "sort": 350
     },
     {
@@ -21,6 +25,8 @@
         "videoId": "5O3F1ftpqEY",
         "videoUrl": "https://sendvid.com/jwzog2ky",
         "duration": "24:29",
+        "downloadUrl": "",
+        "size": "",
         "sort": 351
     }
 ]
