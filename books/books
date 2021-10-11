@@ -24,7 +24,7 @@
         "icon": "https://i.imgur.com/zphr2kq.jpg"
     },
     {
-        "name": "Computer Problem",
+        "name": "Computer Problems",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Computer%20problem.pdf",
         "size": "15.8 MB",
         "icon": "https://i.imgur.com/2ehQF6H.jpg"
@@ -40,12 +40,6 @@
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Computer%20Screenshot.pdf",
         "size": "140 KB",
         "icon": "https://i.imgur.com/5xznsZz.png"
-    },
-    {
-        "name": "Cracker Giude",
-        "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Cracker%20Guide.pdf",
-        "size": "14.7 MB",
-        "icon": "https://i.imgur.com/ZBszIsc.jpg"
     },
     {
         "name": "Cyber Link Power Director V8",
@@ -76,12 +70,6 @@
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Excel%20Advance.pdf",
         "size": "15.2 MB",
         "icon": "https://i.imgur.com/jT4MNbw.jpg"
-    },
-    {
-        "name": "Facebook vs Gmail",
-        "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Facebook%20vs%20Gmail.pdf",
-        "size": "2.35 MB",
-        "icon": "https://i.imgur.com/Sq1s3eV.jpg"
     },
     {
         "name": "Facebook",
@@ -174,12 +162,6 @@
         "icon": "https://i.imgur.com/LzdfETG.png"
     },
     {
-        "name": "Wifi Hacking",
-        "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/WiFi%20Hacking.pdf",
-        "size": "5.56 MB",
-        "icon": "https://i.imgur.com/s28IncQ.jpg"
-    },
-    {
         "name": "Window 7 Drivers",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Window%207%20Drivers.pdf",
         "size": "538 KB",
@@ -232,12 +214,6 @@
         "link": "https://drive.google.com/uc?export=download&id=1iqHDLWSvs1uHWNwGauXZ7uX2pRUEdmru",
         "size": "34 MB",
         "icon": "https://i.imgur.com/dGIafQq.jpg"
-    },
-    {
-        "name": "Hacking Basic",
-        "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Hacking%20Basic.pdf",
-        "size": "2.03 MB",
-        "icon": "https://i.imgur.com/f1OvjSs.jpg"
     },
     {
         "name": "A+ Basic",
