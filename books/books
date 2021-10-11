@@ -108,30 +108,6 @@
         "icon": "https://i.imgur.com/BK0jkPf.jpg"
     },
     {
-        "name": "Linux",
-        "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Linux.pdf",
-        "size": "4.24 MB",
-        "icon": "https://i.imgur.com/e3XBxLU.png"
-    },
-    {
-        "name": "Linux 2",
-        "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Linux%202.pdf",
-        "size": "6.69 MB",
-        "icon": "https://i.imgur.com/4CBCZPS.png"
-    },
-    {
-        "name": "Network Address",
-        "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Network%20Address.pdf",
-        "size": "121 KB",
-        "icon": "https://i.imgur.com/MP47mlP.png"
-    },
-    {
-        "name": "Network",
-        "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Network.pdf",
-        "size": "47.2 KB",
-        "icon": "https://i.imgur.com/bZeRyxV.png"
-    },
-    {
         "name": "Networking",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Neworking.pdf",
         "size": "8.6 MB",
