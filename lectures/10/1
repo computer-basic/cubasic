@@ -650,66 +650,6 @@
         "sort": 348
     },
     {
-        "id": 376,
-        "title": "How to use drawer",
-        "videoId": "kbrf1JtUud8",
-        "videoUrl": "https://sendvid.com/3fzu3wy8",
-        "duration": "5:32",
-        "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/sketchware/1/",
-        "size": "",
-        "sort": 376
-    },
-    {
-        "id": 378,
-        "title": "Timmer Component",
-        "videoId": "N69OGKZRBUI",
-        "videoUrl": "https://sendvid.com/tvq53cco",
-        "duration": "12:44",
-        "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/sketchware/1/",
-        "size": "",
-        "sort": 378
-    },
-    {
-        "id": 379,
-        "title": "Beginner lesson",
-        "videoId": "QwiLmQ7mthU",
-        "videoUrl": "https://sendvid.com/w5uyidvo",
-        "duration": "8:24",
-        "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/sketchware/1/",
-        "size": "",
-        "sort": 379
-    },
-    {
-        "id": 380,
-        "title": "Custom Dialog",
-        "videoId": "2a93Mcwu_ro",
-        "videoUrl": "https://sendvid.com/f96m6xyg",
-        "duration": "37:20",
-        "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/sketchware/1/",
-        "size": "",
-        "sort": 380
-    },
-    {
-        "id": 386,
-        "title": "Mobile Legend Skin Hack",
-        "videoId": "LkvMfHUURh8",
-        "videoUrl": "https://sendvid.com/stl6e9i6",
-        "duration": "21:53",
-        "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/sketchware/1/",
-        "size": "",
-        "sort": 386
-    },
-    {
-        "id": 387,
-        "title": "2D Apk",
-        "videoId": "tZCSGmh06ac",
-        "videoUrl": "https://sendvid.com/irk77oqv",
-        "duration": "26:37",
-        "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/sketchware/1/",
-        "size": "",
-        "sort": 387
-    },
-    {
         "id": 394,
         "title": "Movie App (1)",
         "videoId": "m4DDTNLo6nU",
@@ -758,55 +698,5 @@
         "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/sketchware/1/",
         "size": "",
         "sort": 398
-    },
-    {
-        "id": 399,
-        "title": "Check Internet",
-        "videoId": "mGR1QQhfPXU",
-        "videoUrl": "https://sendvid.com/mptauy3s",
-        "duration": "8:55",
-        "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/sketchware/1/",
-        "size": "",
-        "sort": 399
-    },
-    {
-        "id": 400,
-        "title": "Calculator App",
-        "videoId": "KZbWURPPV40",
-        "videoUrl": "https://sendvid.com/eyzxvo1i",
-        "duration": "5:03",
-        "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/sketchware/1/",
-        "size": "",
-        "sort": 400
-    },
-    {
-        "id": 401,
-        "title": "Loading Screen and Exit Button",
-        "videoId": "5GbTJ5ytIqA",
-        "videoUrl": "https://sendvid.com/oekdujxh",
-        "duration": "10:09",
-        "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/sketchware/1/",
-        "size": "",
-        "sort": 401
-    },
-    {
-        "id": 402,
-        "title": "TV Channel App",
-        "videoId": "yXGKZgI3EiA",
-        "videoUrl": "https://sendvid.com/03s2o88o",
-        "duration": "19:54",
-        "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/sketchware/1/",
-        "size": "",
-        "sort": 402
-    },
-    {
-        "id": 403,
-        "title": "Background Music",
-        "videoId": "U0Mgw-tsCqg",
-        "videoUrl": "https://sendvid.com/dib8fnjj",
-        "duration": "9:36",
-        "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/sketchware/1/",
-        "size": "",
-        "sort": 403
     }
 ]
