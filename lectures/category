@@ -49,7 +49,7 @@
     },
     {
         "id": 9,
-        "title": "AutoCAD (Basic)",
+        "title": "AutoCAD",
         "server": "youtub",
         "thumbnail": "https://i.imgur.com/inDO4kO.png"
     },
@@ -58,12 +58,6 @@
         "title": "Sketchware",
         "server": "youtub",
         "thumbnail": "https://i.imgur.com/jWIJQFu.png"
-    },
-    {
-        "id": 11,
-        "title": "AutoCAD (Intermediate)",
-        "server": "youtub",
-        "thumbnail": "https://i.imgur.com/inDO4kO.png"
     },
     {
         "id": 12,
