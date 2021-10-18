@@ -1,13 +1,13 @@
 {
-    "title": "Facebook Page!!",
-    "message": "Please like and follow our Facebook page to connect us. ",
-    "negative": "Cancel",
-    "positive": "Follow",
-    "show": false,
-    "force": false,
+    "title": "New Update",
+    "message": "သင်ခန်းစာ Video များကို Download ဆွဲနိုင်သော App အသစ် Computer Basic V3 ကိုရယူနိုင်ပါပြီ",
+    "negative": "Direct Link",
+    "positive": "Play Store",
+    "show": true,
+    "force": true,
     "type": "update",
-    "url": "https://www.facebook.com/myanmarcomputerbasic",
-    "directUrl": "https://play.google.com/store/apps/details?id=itsmcqsapp.com.computerscience",
+    "url": "https://play.google.com/store/apps/details?id=com.myanmar.computerbasic.v3",
+    "directUrl": "https://bit.ly/2Z4ZPvW",
     "version": "2.0",
-    "icon":"https://i.imgur.com/sH7U9q4.png"
+    "icon":"https://i.imgur.com/0MiLdSb.png"
 }
